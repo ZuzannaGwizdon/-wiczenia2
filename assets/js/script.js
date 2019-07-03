@@ -1,0 +1,1 @@
+alert("Kocham Cię")
